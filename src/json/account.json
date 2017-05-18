@@ -1,0 +1,8 @@
+[
+	{
+		username: 'admin', password: 'admin'
+	},
+	{
+		username: 'zjh', password: 123
+	}
+]

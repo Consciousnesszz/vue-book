@@ -1,0 +1,7 @@
+[
+	{name: '红楼梦', price: 22, num: 3, type: '文学', author: '曹雪芹'},
+	{name: '双城记', price: 35, num: 7, type: '文学', author: '狄更斯'},
+	{name: '基地', price: 40, num: 5, type: '科幻', author: '阿西莫夫'},
+	{name: '三体', price: 94, num: 7, type: '科幻', author: '刘慈欣'},
+	{name: '社会契约论', price: 32, num: 9, type: '社会', author: '卢梭'}
+]
